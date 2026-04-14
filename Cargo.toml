@@ -401,7 +401,7 @@ cros_async =  { path = "cros_async" }
 ctrlc = "*"
 futures = "0.3"
 gpu_display = { path = "gpu_display", optional = true }
-rand = "0.8"
+rand = "0.9"
 sandbox = { path = "sandbox" }
 cros_tracing = { path = "cros_tracing" }
 tube_transporter = { path = "tube_transporter" }

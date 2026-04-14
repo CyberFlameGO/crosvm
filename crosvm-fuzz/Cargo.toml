@@ -16,7 +16,7 @@ fuse = { path = "../fuse" }
 hypervisor = { path = "../hypervisor" }
 kernel_loader = { path = "../kernel_loader" }
 libc = "*"
-rand = "0.8"
+rand = "0.9"
 base = { path = "../base" }
 tempfile = "3"
 usb_util = { path = "../usb_util" }
